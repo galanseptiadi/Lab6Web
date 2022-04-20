@@ -29,6 +29,10 @@ pt-3 padding top = 3
 
 mt-3 margin top = 3
 
+saya menambah style untuk mengatur ukuran dan posisi pada gambar
+<img width="960" alt="style" src="https://user-images.githubusercontent.com/101730390/164249623-a79b8968-a006-4a6f-bcc3-ca0230a2d388.png">
+
+
 Ini yang di tampilkam browser
 <img width="960" alt="cardss1" src="https://user-images.githubusercontent.com/101730390/164246338-a712a9f4-8bad-41b0-bba5-ce9f9f2d2ec8.png">
 
@@ -45,13 +49,17 @@ menambahkan widget disamping kanan cards 1
 
 
 Footer
+style css untuk footer
+<img width="960" alt="stylefooter" src="https://user-images.githubusercontent.com/101730390/164249815-bfeb499c-14b1-4ed4-b6f9-718b692aefdf.png">
 <img width="960" alt="footer1" src="https://user-images.githubusercontent.com/101730390/164246659-4cdb467e-1f57-4196-9f05-230cb5e62ae7.png">
-<img width="960" alt="footer2" src="https://user-images.githubusercontent.com/101730390/164246678-c724238c-089f-4755-8b93-afa20df698aa.png">
+<img width="960" alt="footer2" src="https://user-images.githubusercontent.com/101730390/164249992-16edebe3-faf2-45a3-bc00-20f39c986750.png">
+
 
 Tampilan gambar layout web , dengan menggunakan Twitter Bootstrap.
 <img width="960" alt="hasil1" src="https://user-images.githubusercontent.com/101730390/164246779-f219f006-223d-4726-87a0-e414e63669ee.png">
 <img width="960" alt="hasil2" src="https://user-images.githubusercontent.com/101730390/164246806-9457513e-370d-45a6-b0fc-799c7b23aa31.png">
-<img width="960" alt="hasil3" src="https://user-images.githubusercontent.com/101730390/164246836-2ef8ad2c-9d6d-4d84-b32d-c927dc8b34e4.png">
+<img width="960" alt="hasil3" src="https://user-images.githubusercontent.com/101730390/164249929-51f49d12-a9bd-4081-9a70-9708ea923174.png">
+
 
 
 
